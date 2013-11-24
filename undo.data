@@ -1,0 +1,385 @@
+time 1384254288
+new [description:"test" entry:"1384254288" status:"pending" uuid:"46c3d09a-1104-4f3b-bd19-ed83776ddf84"]
+---
+time 1384254707
+new [description:"ios" entry:"1384254707" project:"Weisserzauber" status:"pending" uuid:"06e8232d-8929-40ef-8048-51b5b71252cd"]
+---
+time 1384268051
+new [description:"change background image" entry:"1384268051" project:"weisserzauber" status:"pending" uuid:"4580cf89-2ebc-4a5f-a344-412e48fdb296"]
+---
+time 1384282005
+new [description:"changebackground" entry:"1384282005" project:"ios" status:"pending" uuid:"ba5126f3-898e-4beb-9967-60fd2bc016f5"]
+---
+time 1384282022
+new [description:"splash screen" entry:"1384282022" project:"ios" status:"pending" uuid:"ee6a086e-70b7-4846-999d-ba3e033e2632"]
+---
+time 1384282040
+new [description:"change pics" entry:"1384282040" project:"ios" status:"pending" uuid:"68d5e209-8524-42e1-950e-79056217783c"]
+---
+time 1384282053
+new [description:"upload" entry:"1384282053" project:"ios" status:"pending" uuid:"83d1441f-f905-4b70-a5de-68272d930a9e"]
+---
+time 1384285254
+new [description:"change splash screen due tomarrow" entry:"1384285254" project:"ios" status:"pending" uuid:"ca6fbda1-c195-4bfa-b984-c6a3e213ecc8"]
+---
+time 1384285292
+old [description:"changebackground" entry:"1384282005" project:"ios" status:"pending" uuid:"ba5126f3-898e-4beb-9967-60fd2bc016f5"]
+new [description:"changebackground" entry:"1384282005" modified:"1384285292" project:"ios" start:"1384285292" status:"pending" uuid:"ba5126f3-898e-4beb-9967-60fd2bc016f5"]
+---
+time 1384285312
+old [description:"ios" entry:"1384254707" project:"Weisserzauber" status:"pending" uuid:"06e8232d-8929-40ef-8048-51b5b71252cd"]
+new [description:"ios" entry:"1384254707" modified:"1384285312" project:"Weisserzauber" start:"1384285312" status:"pending" uuid:"06e8232d-8929-40ef-8048-51b5b71252cd"]
+---
+time 1384285426
+old [description:"splash screen" entry:"1384282022" project:"ios" status:"pending" uuid:"ee6a086e-70b7-4846-999d-ba3e033e2632"]
+new [description:"splash screen" end:"1384285426" entry:"1384282022" modified:"1384285426" project:"ios" status:"completed" uuid:"ee6a086e-70b7-4846-999d-ba3e033e2632"]
+---
+time 1384285459
+new [description:"change top bar" entry:"1384285459" project:"ios" status:"pending" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+---
+time 1384285480
+old [description:"change splash screen due tomarrow" entry:"1384285254" project:"ios" status:"pending" uuid:"ca6fbda1-c195-4bfa-b984-c6a3e213ecc8"]
+new [description:"change splash screen due tomarrow" end:"1384285480" entry:"1384285254" modified:"1384285480" project:"ios" status:"completed" uuid:"ca6fbda1-c195-4bfa-b984-c6a3e213ecc8"]
+---
+time 1384285488
+old [description:"change pics" entry:"1384282040" project:"ios" status:"pending" uuid:"68d5e209-8524-42e1-950e-79056217783c"]
+new [description:"change pics" entry:"1384282040" modified:"1384285488" project:"ios" start:"1384285488" status:"pending" uuid:"68d5e209-8524-42e1-950e-79056217783c"]
+---
+time 1384285539
+old [description:"change top bar" entry:"1384285459" project:"ios" status:"pending" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+new [description:"change top bar" entry:"1384285459" modified:"1384285539" project:"ios" start:"1384285539" status:"pending" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+---
+time 1384297793
+new [description:"enable scaling proc:ios start" due:"1384384193" entry:"1384297793" status:"pending" uuid:"5a5e2e6e-78b7-456e-a91a-ea648a88e507"]
+---
+time 1384297885
+old [description:"enable scaling proc:ios start" due:"1384384193" entry:"1384297793" status:"pending" uuid:"5a5e2e6e-78b7-456e-a91a-ea648a88e507"]
+new [description:"enable scaling proc:ios start" due:"1384384193" entry:"1384297793" modified:"1384297885" start:"1384297885" status:"pending" uuid:"5a5e2e6e-78b7-456e-a91a-ea648a88e507"]
+---
+time 1384297935
+old [description:"enable scaling proc:ios start" due:"1384384193" entry:"1384297793" modified:"1384297885" start:"1384297885" status:"pending" uuid:"5a5e2e6e-78b7-456e-a91a-ea648a88e507"]
+new [description:"enable scaling proc:ios start" due:"1384384193" end:"1384297931" entry:"1384297793" modified:"1384297935" start:"1384297885" status:"deleted" uuid:"5a5e2e6e-78b7-456e-a91a-ea648a88e507"]
+---
+time 1384297982
+new [description:"enable scrolling start" due:"1384384382" entry:"1384297982" project:"ios" status:"pending" uuid:"626d66bd-4c4d-440e-90a2-6618746bf1fd"]
+---
+time 1384299098
+old [description:"enable scrolling start" due:"1384384382" entry:"1384297982" project:"ios" status:"pending" uuid:"626d66bd-4c4d-440e-90a2-6618746bf1fd"]
+new [description:"enable scrolling start" due:"1384384382" entry:"1384297982" modified:"1384299098" project:"ios" start:"1384299098" status:"pending" uuid:"626d66bd-4c4d-440e-90a2-6618746bf1fd"]
+---
+time 1384299143
+old [description:"change background image" entry:"1384268051" project:"weisserzauber" status:"pending" uuid:"4580cf89-2ebc-4a5f-a344-412e48fdb296"]
+new [description:"change background image" entry:"1384268051" modified:"1384299143" project:"weisserzauber" start:"1384299143" status:"pending" uuid:"4580cf89-2ebc-4a5f-a344-412e48fdb296"]
+---
+time 1384299854
+new [description:"text wieder kleiner machen" entry:"1384299854" project:"iosprio:high" status:"pending" uuid:"0adc805d-b307-489d-a3f9-df5f11d07bcd"]
+---
+time 1384300090
+old [description:"test" entry:"1384254288" status:"pending" uuid:"46c3d09a-1104-4f3b-bd19-ed83776ddf84"]
+new [annotation_1384300085:"weisserzauber" description:"test" end:"1384300085" entry:"1384254288" modified:"1384300090" status:"deleted" uuid:"46c3d09a-1104-4f3b-bd19-ed83776ddf84"]
+---
+time 1384300174
+old [description:"ios" entry:"1384254707" modified:"1384285312" project:"Weisserzauber" start:"1384285312" status:"pending" uuid:"06e8232d-8929-40ef-8048-51b5b71252cd"]
+new [description:"ios" end:"1384300166" entry:"1384254707" modified:"1384300174" project:"weisserzauber" start:"1384285312" status:"deleted" uuid:"06e8232d-8929-40ef-8048-51b5b71252cd"]
+---
+time 1384300568
+old [description:"change background image" entry:"1384268051" modified:"1384299143" project:"weisserzauber" start:"1384299143" status:"pending" uuid:"4580cf89-2ebc-4a5f-a344-412e48fdb296"]
+new [description:"change background image" end:"1384300568" entry:"1384268051" modified:"1384300568" project:"weisserzauber" start:"1384299143" status:"completed" uuid:"4580cf89-2ebc-4a5f-a344-412e48fdb296"]
+---
+time 1384300586
+old [description:"change pics" entry:"1384282040" modified:"1384285488" project:"ios" start:"1384285488" status:"pending" uuid:"68d5e209-8524-42e1-950e-79056217783c"]
+new [description:"change pics" end:"1384300586" entry:"1384282040" modified:"1384300586" project:"ios" start:"1384285488" status:"completed" uuid:"68d5e209-8524-42e1-950e-79056217783c"]
+---
+time 1384300601
+old [description:"changebackground" entry:"1384282005" modified:"1384285292" project:"ios" start:"1384285292" status:"pending" uuid:"ba5126f3-898e-4beb-9967-60fd2bc016f5"]
+new [description:"changebackground" end:"1384300601" entry:"1384282005" modified:"1384300601" project:"ios" start:"1384285292" status:"completed" uuid:"ba5126f3-898e-4beb-9967-60fd2bc016f5"]
+---
+time 1384300653
+new [description:"umlaute" entry:"1384300653" project:"ios" status:"pending" uuid:"3963c4fa-c6b0-4f41-8413-5eacda16038d"]
+---
+time 1384300728
+old [description:"enable scrolling start" due:"1384384382" entry:"1384297982" modified:"1384299098" project:"ios" start:"1384299098" status:"pending" uuid:"626d66bd-4c4d-440e-90a2-6618746bf1fd"]
+new [description:"enable scrolling start" due:"1384384382" end:"1384300728" entry:"1384297982" modified:"1384300728" project:"ios" start:"1384299098" status:"completed" uuid:"626d66bd-4c4d-440e-90a2-6618746bf1fd"]
+---
+time 1384303988
+old [description:"text wieder kleiner machen" entry:"1384299854" project:"iosprio:high" status:"pending" uuid:"0adc805d-b307-489d-a3f9-df5f11d07bcd"]
+new [description:"text wieder kleiner machen" end:"1384303988" entry:"1384299854" modified:"1384303988" project:"iosprio:high" status:"completed" uuid:"0adc805d-b307-489d-a3f9-df5f11d07bcd"]
+---
+time 1384346159
+old [description:"umlaute" entry:"1384300653" project:"ios" status:"pending" uuid:"3963c4fa-c6b0-4f41-8413-5eacda16038d"]
+new [annotation_1384346159:"leider musste ich ü,ö,ä in ae, oe,ue umändern" description:"umlaute" entry:"1384300653" modified:"1384346159" project:"ios" status:"pending" uuid:"3963c4fa-c6b0-4f41-8413-5eacda16038d"]
+---
+time 1384346191
+old [annotation_1384346159:"leider musste ich ü,ö,ä in ae, oe,ue umändern" description:"umlaute" entry:"1384300653" modified:"1384346159" project:"ios" status:"pending" uuid:"3963c4fa-c6b0-4f41-8413-5eacda16038d"]
+new [annotation_1384346159:"leider musste ich ü,ö,ä in ae, oe,ue umändern" description:"umlaute" due:"1384297200" entry:"1384300653" modified:"1384346191" priority:"H" project:"ios" status:"pending" tags:"weisserzauber" uuid:"3963c4fa-c6b0-4f41-8413-5eacda16038d"]
+---
+time 1384346212
+old [description:"change top bar" entry:"1384285459" modified:"1384285539" project:"ios" start:"1384285539" status:"pending" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+new [description:"change top bar" due:"1384297200" entry:"1384285459" modified:"1384346212" priority:"H" project:"ios" start:"1384285539" status:"pending" tags:"weisserzauber" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+---
+time 1384346235
+old [description:"upload" entry:"1384282053" project:"ios" status:"pending" uuid:"83d1441f-f905-4b70-a5de-68272d930a9e"]
+new [description:"upload" due:"1384297200" entry:"1384282053" modified:"1384346235" priority:"H" project:"ios" status:"pending" tags:"weisserzauber" uuid:"83d1441f-f905-4b70-a5de-68272d930a9e"]
+---
+time 1384346344
+old [annotation_1384346159:"leider musste ich ü,ö,ä in ae, oe,ue umändern" description:"umlaute" due:"1384297200" entry:"1384300653" modified:"1384346191" priority:"H" project:"ios" status:"pending" tags:"weisserzauber" uuid:"3963c4fa-c6b0-4f41-8413-5eacda16038d"]
+new [annotation_1384346159:"leider musste ich ü,ö,ä in ae, oe,ue umändern" description:"umlaute" due:"1384297200" end:"1384346344" entry:"1384300653" modified:"1384346344" priority:"H" project:"ios" status:"completed" tags:"weisserzauber" uuid:"3963c4fa-c6b0-4f41-8413-5eacda16038d"]
+---
+time 1384346385
+old [description:"change top bar" due:"1384297200" entry:"1384285459" modified:"1384346212" priority:"H" project:"ios" start:"1384285539" status:"pending" tags:"weisserzauber" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+new [annotation_1384346385:"schade die task bars muss ich consistent in alle views einbauen sonst geht’s nicht auf denen wo es soll" description:"change top bar" due:"1384297200" entry:"1384285459" modified:"1384346385" priority:"H" project:"ios" start:"1384285539" status:"pending" tags:"weisserzauber" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+---
+time 1384346898
+new [description:"change buttons" due:"1384297200" entry:"1384346898" project:"ios" status:"pending" uuid:"fddcf055-114b-4ebc-9433-5f87e5ae7643"]
+---
+time 1384346940
+old [description:"upload" due:"1384297200" entry:"1384282053" modified:"1384346235" priority:"H" project:"ios" status:"pending" tags:"weisserzauber" uuid:"83d1441f-f905-4b70-a5de-68272d930a9e"]
+new [description:"change buttons" due:"1384297200" entry:"1384282053" modified:"1384346940" priority:"H" project:"ios" status:"pending" tags:"weisserzauber" uuid:"83d1441f-f905-4b70-a5de-68272d930a9e"]
+---
+time 1384346943
+old [annotation_1384346385:"schade die task bars muss ich consistent in alle views einbauen sonst geht’s nicht auf denen wo es soll" description:"change top bar" due:"1384297200" entry:"1384285459" modified:"1384346385" priority:"H" project:"ios" start:"1384285539" status:"pending" tags:"weisserzauber" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+new [annotation_1384346385:"schade die task bars muss ich consistent in alle views einbauen sonst geht’s nicht auf denen wo es soll" description:"change buttons" due:"1384297200" entry:"1384285459" modified:"1384346943" priority:"H" project:"ios" start:"1384285539" status:"pending" tags:"weisserzauber" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+---
+time 1384346946
+old [description:"change buttons" due:"1384297200" entry:"1384346898" project:"ios" status:"pending" uuid:"fddcf055-114b-4ebc-9433-5f87e5ae7643"]
+new [description:"change buttons" due:"1384297200" entry:"1384346898" modified:"1384346946" priority:"H" project:"ios" status:"pending" uuid:"fddcf055-114b-4ebc-9433-5f87e5ae7643"]
+---
+time 1384346999
+old [description:"change buttons" due:"1384297200" entry:"1384346898" modified:"1384346946" priority:"H" project:"ios" status:"pending" uuid:"fddcf055-114b-4ebc-9433-5f87e5ae7643"]
+new [description:"change buttons" due:"1384297200" end:"1384346999" entry:"1384346898" modified:"1384346999" priority:"H" project:"ios" status:"deleted" uuid:"fddcf055-114b-4ebc-9433-5f87e5ae7643"]
+---
+time 1384347180
+new [description:"Programm top bar" entry:"1384347180" project:"ios" status:"pending" uuid:"40225d8e-e798-4f04-b9b7-091085b4b92f"]
+---
+time 1384347190
+old [description:"Programm top bar" entry:"1384347180" project:"ios" status:"pending" uuid:"40225d8e-e798-4f04-b9b7-091085b4b92f"]
+new [description:"Programm top bar" entry:"1384347180" modified:"1384347190" project:"ios" start:"1384347190" status:"pending" uuid:"40225d8e-e798-4f04-b9b7-091085b4b92f"]
+---
+time 1384347923
+new [description:"test" entry:"1384347923" status:"pending" uuid:"6ba7e862-31aa-4e35-99f0-05dae26a6cd6"]
+---
+time 1384352190
+new [description:"emails austauschen" entry:"1384352190" project:"ios" status:"pending" uuid:"959f4e5b-8407-4986-8640-7cd256a974d3"]
+---
+time 1384352206
+old [description:"emails austauschen" entry:"1384352190" project:"ios" status:"pending" uuid:"959f4e5b-8407-4986-8640-7cd256a974d3"]
+new [description:"emails austauschen" entry:"1384352190" modified:"1384352206" project:"ios" start:"1384352206" status:"pending" uuid:"959f4e5b-8407-4986-8640-7cd256a974d3"]
+---
+time 1384352745
+old [description:"change buttons" due:"1384297200" entry:"1384282053" modified:"1384346940" priority:"H" project:"ios" status:"pending" tags:"weisserzauber" uuid:"83d1441f-f905-4b70-a5de-68272d930a9e"]
+new [description:"change buttons" due:"1384297200" end:"1384352745" entry:"1384282053" modified:"1384352745" priority:"H" project:"ios" status:"completed" tags:"weisserzauber" uuid:"83d1441f-f905-4b70-a5de-68272d930a9e"]
+---
+time 1384352751
+old [annotation_1384346385:"schade die task bars muss ich consistent in alle views einbauen sonst geht’s nicht auf denen wo es soll" description:"change buttons" due:"1384297200" entry:"1384285459" modified:"1384346943" priority:"H" project:"ios" start:"1384285539" status:"pending" tags:"weisserzauber" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+new [annotation_1384346385:"schade die task bars muss ich consistent in alle views einbauen sonst geht’s nicht auf denen wo es soll" description:"change buttons" due:"1384297200" end:"1384352751" entry:"1384285459" modified:"1384352751" priority:"H" project:"ios" start:"1384285539" status:"completed" tags:"weisserzauber" uuid:"03b60ebd-ce78-42a1-985f-1ed62718c1af"]
+---
+time 1384411613
+old [description:"Programm top bar" entry:"1384347180" modified:"1384347190" project:"ios" start:"1384347190" status:"pending" uuid:"40225d8e-e798-4f04-b9b7-091085b4b92f"]
+new [description:"Programm top bar" end:"1384411613" entry:"1384347180" modified:"1384411613" project:"ios" start:"1384347190" status:"completed" uuid:"40225d8e-e798-4f04-b9b7-091085b4b92f"]
+---
+time 1384411616
+old [description:"emails austauschen" entry:"1384352190" modified:"1384352206" project:"ios" start:"1384352206" status:"pending" uuid:"959f4e5b-8407-4986-8640-7cd256a974d3"]
+new [description:"emails austauschen" end:"1384411616" entry:"1384352190" modified:"1384411616" project:"ios" start:"1384352206" status:"completed" uuid:"959f4e5b-8407-4986-8640-7cd256a974d3"]
+---
+time 1384411656
+new [description:"Find right Build" due:"1384383600" entry:"1384411656" priority:"H" project:"iOS" status:"pending" tags:"weisserzauber,iOS,app" uuid:"3de5ba80-8073-49c2-8659-aecf6ae1e8c7"]
+---
+time 1384412262
+new [description:"sybile schultz anrufen wegen rezept proc:home start" due:"1384383600" entry:"1384412262" status:"pending" uuid:"9d4944c7-ec02-442f-a785-402012044a34"]
+---
+time 1384412290
+old [description:"sybile schultz anrufen wegen rezept proc:home start" due:"1384383600" entry:"1384412262" status:"pending" uuid:"9d4944c7-ec02-442f-a785-402012044a34"]
+new [description:"sybile schultz anrufen wegen rezept proc:home start" due:"1384383600" entry:"1384412262" modified:"1384412290" project:"home" status:"pending" uuid:"9d4944c7-ec02-442f-a785-402012044a34"]
+---
+time 1384413161
+new [description:"unterlagen ausfüllen" entry:"1384413161" project:"Wichtig" status:"pending" uuid:"e02c3bb7-cc0c-4eea-b96d-dfbf9955a50c"]
+---
+time 1384413835
+new [description:"pause Button implementieren" entry:"1384413835" project:"player" status:"pending" uuid:"1f24c145-1027-4c14-b970-f15ef93215c1"]
+---
+time 1384413856
+new [description:"sprites implementieren" entry:"1384413856" project:"player" status:"pending" uuid:"59e47aab-9818-4847-8afc-6eb7b0a381a4"]
+---
+time 1384413880
+new [description:"hover state reparieren" entry:"1384413880" project:"player" status:"pending" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+---
+time 1384413927
+new [description:"überschüssiges css entfernen" entry:"1384413927" project:"player" status:"pending" uuid:"acb27552-2765-43a4-8961-cedac2bcd170"]
+---
+time 1384414028
+old [description:"pause Button implementieren" entry:"1384413835" project:"player" status:"pending" uuid:"1f24c145-1027-4c14-b970-f15ef93215c1"]
+new [description:"pause Button implementieren" entry:"1384413835" modified:"1384414028" priority:"H" project:"player" status:"pending" uuid:"1f24c145-1027-4c14-b970-f15ef93215c1"]
+---
+time 1384414030
+old [description:"sprites implementieren" entry:"1384413856" project:"player" status:"pending" uuid:"59e47aab-9818-4847-8afc-6eb7b0a381a4"]
+new [description:"sprites implementieren" entry:"1384413856" modified:"1384414030" priority:"H" project:"player" status:"pending" uuid:"59e47aab-9818-4847-8afc-6eb7b0a381a4"]
+---
+time 1384414031
+old [description:"hover state reparieren" entry:"1384413880" project:"player" status:"pending" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+new [description:"hover state reparieren" entry:"1384413880" modified:"1384414031" priority:"H" project:"player" status:"pending" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+---
+time 1384414033
+old [description:"überschüssiges css entfernen" entry:"1384413927" project:"player" status:"pending" uuid:"acb27552-2765-43a4-8961-cedac2bcd170"]
+new [description:"überschüssiges css entfernen" entry:"1384413927" modified:"1384414033" priority:"H" project:"player" status:"pending" uuid:"acb27552-2765-43a4-8961-cedac2bcd170"]
+---
+time 1384414082
+old [description:"pause Button implementieren" entry:"1384413835" modified:"1384414028" priority:"H" project:"player" status:"pending" uuid:"1f24c145-1027-4c14-b970-f15ef93215c1"]
+new [description:"pause Button implementieren" due:"1384383600" entry:"1384413835" modified:"1384414082" priority:"H" project:"player" status:"pending" uuid:"1f24c145-1027-4c14-b970-f15ef93215c1"]
+---
+time 1384414082
+old [description:"sprites implementieren" entry:"1384413856" modified:"1384414030" priority:"H" project:"player" status:"pending" uuid:"59e47aab-9818-4847-8afc-6eb7b0a381a4"]
+new [description:"sprites implementieren" due:"1384383600" entry:"1384413856" modified:"1384414082" priority:"H" project:"player" status:"pending" uuid:"59e47aab-9818-4847-8afc-6eb7b0a381a4"]
+---
+time 1384414082
+old [description:"hover state reparieren" entry:"1384413880" modified:"1384414031" priority:"H" project:"player" status:"pending" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+new [description:"hover state reparieren" due:"1384383600" entry:"1384413880" modified:"1384414082" priority:"H" project:"player" status:"pending" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+---
+time 1384414082
+old [description:"überschüssiges css entfernen" entry:"1384413927" modified:"1384414033" priority:"H" project:"player" status:"pending" uuid:"acb27552-2765-43a4-8961-cedac2bcd170"]
+new [description:"überschüssiges css entfernen" due:"1384383600" entry:"1384413927" modified:"1384414082" priority:"H" project:"player" status:"pending" uuid:"acb27552-2765-43a4-8961-cedac2bcd170"]
+---
+time 1384414155
+new [description:"sass compilieren in css" due:"1384383600" entry:"1384414155" priority:"H" project:"player" status:"pending" uuid:"ea04ec9c-b3f1-43c7-b0b3-12c4ccf371ca"]
+---
+time 1384420193
+old [description:"pause Button implementieren" due:"1384383600" entry:"1384413835" modified:"1384414082" priority:"H" project:"player" status:"pending" uuid:"1f24c145-1027-4c14-b970-f15ef93215c1"]
+new [description:"pause Button implementieren" due:"1384506589" entry:"1384413835" modified:"1384420193" priority:"H" project:"player" status:"pending" uuid:"1f24c145-1027-4c14-b970-f15ef93215c1"]
+---
+time 1384420193
+old [description:"sprites implementieren" due:"1384383600" entry:"1384413856" modified:"1384414082" priority:"H" project:"player" status:"pending" uuid:"59e47aab-9818-4847-8afc-6eb7b0a381a4"]
+new [description:"sprites implementieren" due:"1384506593" entry:"1384413856" modified:"1384420193" priority:"H" project:"player" status:"pending" uuid:"59e47aab-9818-4847-8afc-6eb7b0a381a4"]
+---
+time 1384420193
+old [description:"hover state reparieren" due:"1384383600" entry:"1384413880" modified:"1384414082" priority:"H" project:"player" status:"pending" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+new [description:"hover state reparieren" due:"1384506593" entry:"1384413880" modified:"1384420193" priority:"H" project:"player" status:"pending" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+---
+time 1384420193
+old [description:"überschüssiges css entfernen" due:"1384383600" entry:"1384413927" modified:"1384414082" priority:"H" project:"player" status:"pending" uuid:"acb27552-2765-43a4-8961-cedac2bcd170"]
+new [description:"überschüssiges css entfernen" due:"1384506593" entry:"1384413927" modified:"1384420193" priority:"H" project:"player" status:"pending" uuid:"acb27552-2765-43a4-8961-cedac2bcd170"]
+---
+time 1384420193
+old [description:"sass compilieren in css" due:"1384383600" entry:"1384414155" priority:"H" project:"player" status:"pending" uuid:"ea04ec9c-b3f1-43c7-b0b3-12c4ccf371ca"]
+new [description:"sass compilieren in css" due:"1384506593" entry:"1384414155" modified:"1384420193" priority:"H" project:"player" status:"pending" uuid:"ea04ec9c-b3f1-43c7-b0b3-12c4ccf371ca"]
+---
+time 1384426335
+old [description:"Find right Build" due:"1384383600" entry:"1384411656" priority:"H" project:"iOS" status:"pending" tags:"weisserzauber,iOS,app" uuid:"3de5ba80-8073-49c2-8659-aecf6ae1e8c7"]
+new [annotation_1384426335:"Had 4 instances of xcode open hopefully that was the reason for the wrong build" description:"Find right Build" due:"1384383600" entry:"1384411656" modified:"1384426335" priority:"H" project:"iOS" status:"pending" tags:"weisserzauber,iOS,app" uuid:"3de5ba80-8073-49c2-8659-aecf6ae1e8c7"]
+---
+time 1384426343
+old [description:"sybile schultz anrufen wegen rezept proc:home start" due:"1384383600" entry:"1384412262" modified:"1384412290" project:"home" status:"pending" uuid:"9d4944c7-ec02-442f-a785-402012044a34"]
+new [description:"sybile schultz anrufen wegen rezept proc:home start" due:"1384383600" end:"1384426343" entry:"1384412262" modified:"1384426343" project:"home" status:"completed" uuid:"9d4944c7-ec02-442f-a785-402012044a34"]
+---
+time 1384426377
+old [annotation_1384426335:"Had 4 instances of xcode open hopefully that was the reason for the wrong build" description:"Find right Build" due:"1384383600" entry:"1384411656" modified:"1384426335" priority:"H" project:"iOS" status:"pending" tags:"weisserzauber,iOS,app" uuid:"3de5ba80-8073-49c2-8659-aecf6ae1e8c7"]
+new [annotation_1384426335:"Had 4 instances of xcode open hopefully that was the reason for the wrong build" description:"Find right Build" due:"1384470000" entry:"1384411656" modified:"1384426377" priority:"H" project:"iOS" status:"pending" tags:"weisserzauber,iOS,app" uuid:"3de5ba80-8073-49c2-8659-aecf6ae1e8c7"]
+---
+time 1384508452
+old [description:"hover state reparieren" due:"1384506593" entry:"1384413880" modified:"1384420193" priority:"H" project:"player" status:"pending" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+new [description:"hover state reparieren" due:"1384506593" end:"1384508452" entry:"1384413880" modified:"1384508452" priority:"H" project:"player" status:"completed" uuid:"b7d1c5de-608e-44a6-8a44-e8946c0ec112"]
+---
+time 1384523850
+old [description:"unterlagen ausfüllen" entry:"1384413161" project:"Wichtig" status:"pending" uuid:"e02c3bb7-cc0c-4eea-b96d-dfbf9955a50c"]
+new [description:"unterlagen ausfüllen" end:"1384523850" entry:"1384413161" modified:"1384523850" project:"Wichtig" status:"completed" uuid:"e02c3bb7-cc0c-4eea-b96d-dfbf9955a50c"]
+---
+time 1384538065
+old [description:"test" entry:"1384347923" status:"pending" uuid:"6ba7e862-31aa-4e35-99f0-05dae26a6cd6"]
+new [description:"test" end:"1384538065" entry:"1384347923" modified:"1384538065" status:"completed" uuid:"6ba7e862-31aa-4e35-99f0-05dae26a6cd6"]
+---
+time 1384754842
+new [description:"heruku" entry:"1384754842" status:"pending" uuid:"6c4a5eb8-894b-4759-9fd4-9eb8b675d3d0"]
+---
+time 1384754911
+old [description:"heruku" entry:"1384754842" status:"pending" uuid:"6c4a5eb8-894b-4759-9fd4-9eb8b675d3d0"]
+new [annotation_1384754911:"http:\/\/rocky-spire-5060.herokuapp.com\/ | git@heroku.com:rocky-spire-5060.git" description:"heruku" entry:"1384754842" modified:"1384754911" status:"pending" uuid:"6c4a5eb8-894b-4759-9fd4-9eb8b675d3d0"]
+---
+time 1384756756
+old [annotation_1384754911:"http:\/\/rocky-spire-5060.herokuapp.com\/ | git@heroku.com:rocky-spire-5060.git" description:"heruku" entry:"1384754842" modified:"1384754911" status:"pending" uuid:"6c4a5eb8-894b-4759-9fd4-9eb8b675d3d0"]
+new [annotation_1384754911:"http:\/\/rocky-spire-5060.herokuapp.com\/ | git@heroku.com:rocky-spire-5060.git" description:"heruku" entry:"1384754842" modified:"1384756756" priority:"L" project:"learning_rails" status:"pending" tags:"heruku,rails,ruby,tutorial" uuid:"6c4a5eb8-894b-4759-9fd4-9eb8b675d3d0"]
+---
+time 1384801624
+old [annotation_1384426335:"Had 4 instances of xcode open hopefully that was the reason for the wrong build" description:"Find right Build" due:"1384470000" entry:"1384411656" modified:"1384426377" priority:"H" project:"iOS" status:"pending" tags:"weisserzauber,iOS,app" uuid:"3de5ba80-8073-49c2-8659-aecf6ae1e8c7"]
+new [annotation_1384426335:"Had 4 instances of xcode open hopefully that was the reason for the wrong build" description:"Find right Build" due:"1384470000" end:"1384801624" entry:"1384411656" modified:"1384801624" priority:"H" project:"iOS" status:"completed" tags:"weisserzauber,iOS,app" uuid:"3de5ba80-8073-49c2-8659-aecf6ae1e8c7"]
+---
+time 1384843559
+new [description:"setup tmuxinator rails env" entry:"1384843559" project:"rails" status:"pending" uuid:"ae97ff92-6159-41a8-95ab-b10b40361057"]
+---
+time 1384843580
+new [description:"fragen wegen mac benutzen" entry:"1384843580" project:"arbeit" status:"pending" uuid:"f6176ace-e4ac-4fb1-92a3-dfeaf3974783"]
+---
+time 1385018555
+old [description:"fragen wegen mac benutzen" entry:"1384843580" project:"arbeit" status:"pending" uuid:"f6176ace-e4ac-4fb1-92a3-dfeaf3974783"]
+new [description:"fragen wegen mac benutzen" end:"1385018555" entry:"1384843580" modified:"1385018555" project:"arbeit" status:"completed" uuid:"f6176ace-e4ac-4fb1-92a3-dfeaf3974783"]
+---
+time 1385018579
+new [description:"unterlage" entry:"1385018579" project:"privat" status:"pending" uuid:"c2507722-9219-48c5-af49-c6ae4073f9e2"]
+---
+time 1385018598
+old [description:"unterlage" entry:"1385018579" project:"privat" status:"pending" uuid:"c2507722-9219-48c5-af49-c6ae4073f9e2"]
+new [description:"unterlage" entry:"1385018579" modified:"1385018598" project:"privat" start:"1385018598" status:"pending" uuid:"c2507722-9219-48c5-af49-c6ae4073f9e2"]
+---
+time 1385153472
+new [description:"foundation instalieren" due:"1385247600" entry:"1385153472" project:"webseite" status:"pending" uuid:"7b9ad64a-b460-484e-bbae-5e8724f1103a"]
+---
+time 1385153522
+old [description:"foundation instalieren" due:"1385247600" entry:"1385153472" project:"webseite" status:"pending" uuid:"7b9ad64a-b460-484e-bbae-5e8724f1103a"]
+new [description:"foundation instalieren" due:"1385247600" entry:"1385153472" modified:"1385153522" project:"webseite" start:"1385153522" status:"pending" uuid:"7b9ad64a-b460-484e-bbae-5e8724f1103a"]
+---
+time 1385153541
+old [description:"foundation instalieren" due:"1385247600" entry:"1385153472" modified:"1385153522" project:"webseite" start:"1385153522" status:"pending" uuid:"7b9ad64a-b460-484e-bbae-5e8724f1103a"]
+new [description:"foundation instalieren" due:"1385247600" end:"1385153541" entry:"1385153472" modified:"1385153541" project:"webseite" start:"1385153522" status:"completed" uuid:"7b9ad64a-b460-484e-bbae-5e8724f1103a"]
+---
+time 1385153996
+new [description:"convert scss to sass start" due:"1385247600" entry:"1385153996" project:"webseite" status:"pending" uuid:"270ade99-0f2b-4dde-8e42-2ca0b4691b8b"]
+---
+time 1385154046
+new [description:"change base variables start" due:"1385247600" entry:"1385154046" project:"webseite" status:"pending" uuid:"a8053558-0bda-4d3d-95bd-4f8ed53812a8"]
+---
+time 1385154108
+new [description:"add sass mixins sepecial effects start" due:"1385247600" entry:"1385154108" project:"webseite" status:"pending" uuid:"ce67ed82-8fd5-409d-bca3-cf16b99f20ca"]
+---
+time 1385154183
+new [description:"javascript start" due:"1385247600" entry:"1385154183" project:"webseite" status:"pending" uuid:"145f1949-50b6-481c-9f6c-faa33a0ef6e1"]
+---
+time 1385154239
+new [description:"convert sass to scss" due:"1385247600" entry:"1385154239" project:"webseite" status:"pending" uuid:"fc0e9b3a-e07a-45a1-9de3-c8caec794f4b"]
+---
+time 1385154405
+new [description:"build static project" due:"1385247600" entry:"1385154405" project:"webseite" status:"pending" uuid:"190d9b05-8cc6-4d0d-a2a8-d65be3c3e850"]
+---
+time 1385154474
+new [description:"configure deploy rake script" due:"1385247600" entry:"1385154474" project:"webseite" status:"pending" uuid:"d66c125c-9e41-4d3f-b0ac-b1a0a4ad3b9d"]
+---
+time 1385154523
+new [description:"deploy" due:"1385247600" entry:"1385154523" project:"webseite" status:"pending" uuid:"b48fffd4-5289-4e84-9f61-1133b714a880"]
+---
+time 1385154631
+new [description:"android app app WZ" due:"1385420400" entry:"1385154631" project:"android" status:"pending" uuid:"0d0f3c53-a068-4499-b9db-2f93040d0654"]
+---
+time 1385154676
+old [description:"sass compilieren in css" due:"1384506593" entry:"1384414155" modified:"1384420193" priority:"H" project:"player" status:"pending" uuid:"ea04ec9c-b3f1-43c7-b0b3-12c4ccf371ca"]
+new [description:"sass compilieren in css" due:"1384506593" end:"1385154676" entry:"1384414155" modified:"1385154676" priority:"H" project:"player" status:"completed" uuid:"ea04ec9c-b3f1-43c7-b0b3-12c4ccf371ca"]
+---
+time 1385154786
+old [description:"change base variables start" due:"1385247600" entry:"1385154046" project:"webseite" status:"pending" uuid:"a8053558-0bda-4d3d-95bd-4f8ed53812a8"]
+new [description:"change base variables start" due:"1385247600" entry:"1385154046" modified:"1385154786" project:"webseite" start:"1385154786" status:"pending" uuid:"a8053558-0bda-4d3d-95bd-4f8ed53812a8"]
+---
+time 1385154796
+old [description:"add sass mixins sepecial effects start" due:"1385247600" entry:"1385154108" project:"webseite" status:"pending" uuid:"ce67ed82-8fd5-409d-bca3-cf16b99f20ca"]
+new [description:"add sass mixins sepecial effects start" due:"1385247600" entry:"1385154108" modified:"1385154796" project:"webseite" start:"1385154796" status:"pending" uuid:"ce67ed82-8fd5-409d-bca3-cf16b99f20ca"]
+---
+time 1385210090
+old [description:"change base variables start" due:"1385247600" entry:"1385154046" modified:"1385154786" project:"webseite" start:"1385154786" status:"pending" uuid:"a8053558-0bda-4d3d-95bd-4f8ed53812a8"]
+new [description:"change base variables start" due:"1385247600" end:"1385210090" entry:"1385154046" modified:"1385210090" project:"webseite" start:"1385154786" status:"completed" uuid:"a8053558-0bda-4d3d-95bd-4f8ed53812a8"]
+---
+time 1385288921
+old [description:"convert scss to sass start" due:"1385247600" entry:"1385153996" project:"webseite" status:"pending" uuid:"270ade99-0f2b-4dde-8e42-2ca0b4691b8b"]
+new [description:"convert scss to sass start" due:"1385247600" end:"1385288921" entry:"1385153996" modified:"1385288921" project:"webseite" status:"completed" uuid:"270ade99-0f2b-4dde-8e42-2ca0b4691b8b"]
+---
+time 1385288940
+old [description:"convert sass to scss" due:"1385247600" entry:"1385154239" project:"webseite" status:"pending" uuid:"fc0e9b3a-e07a-45a1-9de3-c8caec794f4b"]
+new [description:"convert sass to scss" due:"1385247600" end:"1385288940" entry:"1385154239" modified:"1385288940" project:"webseite" status:"completed" uuid:"fc0e9b3a-e07a-45a1-9de3-c8caec794f4b"]
+---
+time 1385288951
+old [description:"javascript start" due:"1385247600" entry:"1385154183" project:"webseite" status:"pending" uuid:"145f1949-50b6-481c-9f6c-faa33a0ef6e1"]
+new [description:"javascript start" due:"1385247600" entry:"1385154183" modified:"1385288951" project:"webseite" start:"1385288951" status:"pending" uuid:"145f1949-50b6-481c-9f6c-faa33a0ef6e1"]
+---
