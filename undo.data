@@ -383,3 +383,47 @@ time 1385288951
 old [description:"javascript start" due:"1385247600" entry:"1385154183" project:"webseite" status:"pending" uuid:"145f1949-50b6-481c-9f6c-faa33a0ef6e1"]
 new [description:"javascript start" due:"1385247600" entry:"1385154183" modified:"1385288951" project:"webseite" start:"1385288951" status:"pending" uuid:"145f1949-50b6-481c-9f6c-faa33a0ef6e1"]
 ---
+time 1385322501
+new [description:"hvv anrufen" due:"1385679600" entry:"1385322501" project:"wichtig" status:"pending" uuid:"8f163cf9-d7a9-4746-8893-1642571f0e5e"]
+---
+time 1385448860
+old [annotation_1384754911:"http:\/\/rocky-spire-5060.herokuapp.com\/ | git@heroku.com:rocky-spire-5060.git" description:"heruku" entry:"1384754842" modified:"1384756756" priority:"L" project:"learning_rails" status:"pending" tags:"heruku,rails,ruby,tutorial" uuid:"6c4a5eb8-894b-4759-9fd4-9eb8b675d3d0"]
+new [annotation_1384754911:"http:\/\/rocky-spire-5060.herokuapp.com\/ | git@heroku.com:rocky-spire-5060.git" description:"heruku" end:"1385448860" entry:"1384754842" modified:"1385448860" priority:"L" project:"learning_rails" status:"completed" tags:"heruku,rails,ruby,tutorial" uuid:"6c4a5eb8-894b-4759-9fd4-9eb8b675d3d0"]
+---
+time 1385448878
+old [description:"javascript start" due:"1385247600" entry:"1385154183" modified:"1385288951" project:"webseite" start:"1385288951" status:"pending" uuid:"145f1949-50b6-481c-9f6c-faa33a0ef6e1"]
+new [description:"javascript start" due:"1385247600" end:"1385448878" entry:"1385154183" modified:"1385448878" project:"webseite" start:"1385288951" status:"completed" uuid:"145f1949-50b6-481c-9f6c-faa33a0ef6e1"]
+---
+time 1385448884
+old [description:"build static project" due:"1385247600" entry:"1385154405" project:"webseite" status:"pending" uuid:"190d9b05-8cc6-4d0d-a2a8-d65be3c3e850"]
+new [description:"build static project" due:"1385247600" end:"1385448884" entry:"1385154405" modified:"1385448884" project:"webseite" status:"completed" uuid:"190d9b05-8cc6-4d0d-a2a8-d65be3c3e850"]
+---
+time 1385448891
+old [description:"deploy" due:"1385247600" entry:"1385154523" project:"webseite" status:"pending" uuid:"b48fffd4-5289-4e84-9f61-1133b714a880"]
+new [description:"deploy" due:"1385247600" end:"1385448891" entry:"1385154523" modified:"1385448891" project:"webseite" status:"completed" uuid:"b48fffd4-5289-4e84-9f61-1133b714a880"]
+---
+time 1385448915
+old [description:"unterlage" entry:"1385018579" modified:"1385018598" project:"privat" start:"1385018598" status:"pending" uuid:"c2507722-9219-48c5-af49-c6ae4073f9e2"]
+new [description:"unterlage" end:"1385448915" entry:"1385018579" modified:"1385448915" project:"privat" start:"1385018598" status:"completed" uuid:"c2507722-9219-48c5-af49-c6ae4073f9e2"]
+---
+time 1385448952
+new [description:"zur ärztin gehen" entry:"1385448952" status:"pending" uuid:"65558abd-e324-4a8a-932a-1e4839605f65"]
+---
+time 1385448965
+new [description:"Eilers fragen wegen pause" entry:"1385448965" status:"pending" uuid:"587ab0c8-6f8d-448e-bfcf-e6cdeffdc200"]
+---
+time 1385448985
+new [description:"impressum machen" entry:"1385448985" project:"webseite" status:"pending" uuid:"a29c3942-31ac-492e-8cc4-786a6e28ae5b"]
+---
+time 1385449005
+new [description:"gallery machen" entry:"1385449005" project:"webseite" status:"pending" uuid:"b12e6c30-dbf4-414c-9309-1fb28726c9a1"]
+---
+time 1385449029
+new [description:"menu machen farben sieht man nicht" entry:"1385449029" project:"webseite" status:"pending" uuid:"b8352556-f2ba-4cf2-8ef8-205d45d4c365"]
+---
+time 1385449039
+new [description:"ulli schreiben" entry:"1385449039" status:"pending" uuid:"261807e8-9146-4f6b-9613-824d4883a55e"]
+---
+time 1385449052
+new [description:"marianne schreiben" entry:"1385449052" project:"wichtig" status:"pending" uuid:"e0d9dc99-d533-4a09-9848-b26fb4588649"]
+---
